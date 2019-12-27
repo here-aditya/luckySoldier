@@ -1,0 +1,14 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "Test Last Man Alive",
+  "main": "app.js",
+  "scripts": {
+    "test": "tlman"
+  },
+  "author": "Aditya Das",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
