@@ -5,8 +5,8 @@
 
 Run the program as follows :-
 -------------------------------------
-\nnode app.js
-\nThen enter no of test cases
+<br> node app.js
+<br> Then enter no of test cases
 New line enter soldier for 1st test case
 In New line enter soldier for 2nd test case
 ....................
